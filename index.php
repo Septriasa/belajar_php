@@ -8,7 +8,7 @@
 <body>
     <h3>
                <?php
-          echo "ketapang punah";
+          echo "nainik";
         ?>
           </h3>
 </body>
